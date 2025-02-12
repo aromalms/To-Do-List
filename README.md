@@ -16,11 +16,11 @@ This is a simple and interactive To-Do List web application that allows users to
 
 ## Features
 
-- **Add new tasks with timestamps**: Easily add tasks, and each task will include the time it was created.
+- **Add new tasks with timestamps**: Easily add tasks, and each task will include the timestamps
 - **Edit and delete tasks**: Manage tasks efficiently by editing or removing them as needed.
 - **Mark tasks as completed**: Track task completion status with a simple toggle.
+- **Tasks Prioritization**: Tasks can be sorted based on the timestamps
 - **Responsive design**: The app is optimized for both mobile and desktop screens.
-- **Smooth animations and transitions**: Experience fluid user interactions with modern animations.
 - **Tooltip feature**: Hover over tasks to view additional details via tooltips.
 
 ## Setup Instructions
