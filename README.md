@@ -5,9 +5,9 @@
 This is a simple and interactive To-Do List web application that allows users to add, edit, and delete tasks efficiently. The app features a sleek user interface with animations, tooltips, and a responsive layout, making task management easy and intuitive.
 
 ## Screenshots
-![Screenshot 2025-02-13 004646](https://github.com/user-attachments/assets/9ce5a694-1a3b-4732-b0c9-b88b15260637)
+![image](https://github.com/user-attachments/assets/6164f7c5-66b2-4739-892c-2db34499f514)
 
-![image](https://github.com/user-attachments/assets/cc0bf6c9-425f-4e74-805d-8d777a32be6b)
+![image](https://github.com/user-attachments/assets/67fa7114-f859-4740-b415-a132ca1455db)
 
 ## Table of Contents
 
