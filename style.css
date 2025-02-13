@@ -58,6 +58,7 @@
     border-radius: 10px;
     border: 1px solid #ccc;
     outline: none;
+    margin-left: 25px;
 }
 
 .to-do button {
@@ -254,7 +255,7 @@ ul li.new-task {
 .input-container {
     width: 100%;
     max-width: 700px;
-    display: flex;
+    display:block;
     gap: 10px;
     justify-content: center;
 }
@@ -268,7 +269,15 @@ ul li.new-task {
 
 #time-box {
     cursor: pointer;
-    color: grey;
+    color: rgb(0, 0, 0);
+    flex-grow: 1;
+    max-width: 100%;
+    padding: 12px;
+    font-size: 16px;
+    border-radius: 10px;
+    border: 1px solid #ccc;
+    outline: none;
+    margin-left: 25px;
 }
 
 #time-box:focus {
